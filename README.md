@@ -21,6 +21,13 @@ I am a 3rd year Econ Undergrad at IIT Kharagpur. I love programming, e-gaming an
 
 </br>
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
 
 📈 **My GitHub Stats:**
 
