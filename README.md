@@ -15,7 +15,7 @@ I am a 3rd year Econ Undergrad at IIT Kharagpur. I love programming, e-gaming an
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on <a href="https://github.com/metakgp/kronos2.0" target="_blank">kronos</a>;
-- 🚀 I’m currently exploring the field of Algorithmic Trading;
+- 🚀 I’m also exploring the field of Algorithmic Trading;
 - 📫 How to reach me: Email - palkitlohia2001@outlook.com;
 - 📝 [Resume](https://palkitlohia.me/Palkit_Lohia-resume.pdf).
 
