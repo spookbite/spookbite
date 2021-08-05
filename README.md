@@ -28,6 +28,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+</br>
 
 📈 **My GitHub Stats:**
 
