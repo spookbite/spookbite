@@ -7,28 +7,19 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=spookbite.spookbite)
 
-I am a 3rd year Econ Undergrad at IIT Kharagpur. I love programming, e-gaming and listening to indie music.
+I am a 4th year Econ Undergrad at IIT Kharagpur. 
 
 <img align="right" alt="GIF" src="https://github.com/spookbite/spookbite/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on <a href="https://github.com/metakgp/kronos2.0" target="_blank">kronos</a>;
-- 🚀 I’m also exploring the field of Algorithmic Trading;
+- 👨🏻‍💻 Currently working on <a href="https://citedme.net/" target="_blank">CitEd</a>;
+- 🚀 Exploring Mankind's Concepts of Nature;
 - 📫 How to reach me: Email - palkitlohia2001@outlook.com;
-- 📝 [Resume](https://palkitlohia.me/Palkit_Lohia-resume.pdf).
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-</br>
 
 📈 **My GitHub Stats:**
 
