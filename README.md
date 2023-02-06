@@ -10,9 +10,7 @@
 I am a 4th year Econ Undergrad at IIT Kharagpur. 
 
 <img align="right" alt="GIF" src="https://github.com/spookbite/spookbite/blob/main/coding.gif?raw=true" width="408" height="318" />
-  
-
-**Talking about Personal Stuffs:**
+ 
 
 - 👨🏻‍💻 Currently working on <a href="https://citedme.net/" target="_blank">CitEd</a>;
 - 🚀 Exploring Mankind's Concepts of Nature;
