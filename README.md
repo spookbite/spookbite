@@ -20,6 +20,13 @@ I am a 4th year Econ Undergrad at IIT Kharagpur.
 
 </br>
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
 
 📈 **My GitHub Stats:**
 
